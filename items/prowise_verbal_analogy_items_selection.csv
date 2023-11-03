@@ -1,0 +1,101 @@
+,item_number,row_number,type_verband,A,B,C,D,Ans1,Ans2,Ans3,Ans4,semantic_distance_near_far,distractor_salience_high_low,type_relation_jones
+1,88,72,classificatie,muis,knaagdier,postbode,beroep,dier,brandweerman,pakjes,postzegel,far,high,categorical
+2,109,93,classificatie,groen,kleur,honderd,getal,euro,duur,centimeter,duizend,far,high,categorical
+3,401,375,hoort bij elkaar,vis,aquarium,tijd,minuut,lang,nacht,gewicht,langzaam,far,high,categorical
+4,703,647,probleem - oplossing,honger,eten,breuk,gips,brand,rekenen,scheiding,vallen,far,high,causal
+5,706,650,probleem - oplossing,herrie,oordopjes,ziekte,medicijnen,beter,koorts,knuffel,oorpijn,far,high,causal
+6,243,226,delen een eigenschap,brandweerauto,roos,water,glas,paars,zee,wanten,safari,far,high,compositional
+7,441,413,item - eigenschap,rots,hard,veer,licht,gans,pen,veren,vliegen,far,high,compositional
+8,416,388,item - eigenschap,water,nat,rodekool,rood,fruit,bos,omhakken,zingen,far,high,compositional
+9,849,782,teken van,knuffelen,liefde,gapen,vermoeidheid,laat,slapen,mond,tong,far,high,NA
+10,862,789,teken van,sirene,hulpdienst,luxe,rijk,Ferrari,snel rijden,mooi,benzine,far,high,NA
+11,836,773,tegengestelden,groot,klein,voor,achter,hier,daar,overal,das,far,high,NA
+12,312,293,dezelfde categorie,step,fiets,kabouter,heks,timmerman,juffrouw,Duitser,Chinees,far,low,categorical
+13,363,340,hoort bij elkaar,vis,aquarium,aarde,heelal,water,ster,hond,spiegel,far,low,categorical
+14,78,62,classificatie,België,land,armband,sieraad,ring,dier,kleur,plant,far,low,categorical
+15,54,40,actie-resultaat,zwartrijden,boete,zaaien,plant,aarde,haaien,akker,boer,far,low,causal
+16,921,827,uitvoerder - actie,winkelier,verkopen,zanger,zingen,muziek,vals,valideren,toonsoort,far,low,causal
+17,948,853,uitvoerder - actie,tuinier,tuinieren,kapper,knippen,schrijven,poetsen,vliegen,regenen,far,low,causal
+18,212,196,delen een eigenschap,horloge,klok,brief,e-mail,letter,tijd,minuten,papier,far,low,compositional
+19,202,186,delen een eigenschap,stofzuiger,bezem,bril,lenzen,trui,aardappel,gezicht,ogen,far,low,compositional
+20,179,163,deel - geheel,veter,schoen,klok,kerk,god,bidden,moskee,geloof,far,low,compositional
+21,885,801,teken van,snurken,slapen,kus,liefde,hoofdkussen,balen,leuk,lippen,far,low,NA
+22,884,800,teken van,zweten,inspanning,kus,liefde,hoofdkussen,balen,leuk,lippen,far,low,NA
+23,737,677,synoniem,perfect,ideaal,rondje,cirkel,heks,klok,water,film,far,low,NA
+24,395,370,hoort bij elkaar,gracht,kasteel,tuin,huis,park,tonijn,moestuin,puin,near,high,categorical
+25,369,346,hoort bij elkaar,avond,diner,middag,lunch,ochtend,soep,computer,agenda,near,high,categorical
+26,375,351,hoort bij elkaar,vriezen,koud,zon,warmte,planeet,wolken,weer,koude,near,high,categorical
+27,677,632,oorzaak-gevolg,opruimen,netjes,zuiveren,schoon,vies,water,kamer,ontsmetten,near,high,causal
+28,912,818,uitvoerder - actie,vader,opvoeden,kind,spelen,speelgoed,broertje,school,juffrouw,near,high,causal
+29,946,851,uitvoerder - actie,kok,koken,bakker,bakken,muts,vliegtuig,cake,winkel,near,high,causal
+30,153,137,deel - geheel,jij,iedereen,nu,altijd,straks,nergens,klok,nooit,near,high,compositional
+31,170,154,deel - geheel,moeder,ouders,juf,leraren,leerling,rekenen,vader,vriendin,near,high,compositional
+32,457,429,item - eigenschap,ravijn,diep,berg,hoog,klein,landschap,vakantie,wandelen,near,high,compositional
+33,634,592,object - locatie,taart,bakblik,soep,pan,koken,fornuis,keuken,bakken,near,high,NA
+34,665,622,object - locatie,ring,vinger,ketting,hals,armband,mooi,goud,hond,near,high,NA
+35,786,723,tegengestelden,vol,leeg,nep,echt,namaak,kapot,verboden,alsof,near,high,NA
+36,319,300,dezelfde categorie,ranja,appelsap,appel,banaan,bloemkool,aardappel,water,pizza,near,low,categorical
+37,299,280,dezelfde categorie,beker,glas,fluitketel,waterkoker,mok,koelkast,vriezer,schoteltje,near,low,categorical
+38,387,363,hoort bij elkaar,verf,kwast,broek,riem,fiets,bezem,vaas,jongen,near,low,categorical
+39,23,19,actie-resultaat,koken,diner,bakken,taart,bakplaat,soep,avond,bakker,near,low,causal
+40,338,319,gebrek aan,naakt,kleren,kaal,haren,borstel,hoofd,oren,man,near,low,causal
+41,328,309,gebrek aan,moe,slaap,honger,eten,arm,mond,misselijk,rusten,near,low,causal
+42,182,166,deel - geheel,maand,jaar,dag,maand,uur,verjaardag,tijdstip,horloge,near,low,compositional
+43,573,537,object - functie,papier,schrijven,potlood,tekenen,verven,hout,grijs,slijpen,near,low,compositional
+44,451,423,item - eigenschap,fluisteren,zacht,schreeuwen,hard,schor,keelpijn,concert,waaghals,near,low,compositional
+45,476,448,mate/sterkte,grappig,hilarisch,iemand,iedereen,niemand,nooit,vrienden,vaak,near,low,NA
+46,712,654,mate/sterkte,warm,heet,raar,gek,normaal,voltooid,overig,dank,near,low,NA
+47,718,660,synoniem,verkeerd,fout,correct,goed,fout,ring,pen,vals,near,low,NA
+48,378,354,hoort bij elkaar,arm,pols,been,enkel,voet,scheen,tenen,hand,NA,high,categorical
+49,391,366,hoort bij elkaar,kluis,slot,telefoon,wachtwoord,computer,sleutel,kasteel,lezen,NA,high,categorical
+50,382,358,hoort bij elkaar,tuin,tuinman,kinderboerderij,dieren,schommel,stad,spelen,bamboe,NA,high,categorical
+51,325,306,gebrek aan,haast,tijd,weeskind,ouders,meisje,jongen,wezenlijk,Annie,NA,high,causal
+52,376,352,actie-resultaat,parasol,schaduw,zon,warmte,planeet,wolken,weer,koude,NA,high,causal
+53,910,816,uitvoerder - actie,vis,zwemmen,kikker,springen,jeuken,haar,duiken,krabben,NA,high,causal
+54,172,156,deel - geheel,baksteen,gebouw,letter,woord,spelling,tekening,grammatica,lezen,NA,high,compositional
+55,140,124,deel - geheel,toets,toetsenbord,snaar,viool,dirigent,trommel,muziek,noot,NA,high,compositional
+56,462,434,item - eigenschap,kikker,groen,kabouter,klein,bezem,bos,reus,biologie,NA,high,compositional
+57,502,473,mate/sterkte,graag,liefst,netjes,chic,make-up,kleding,vriendelijk,luisteren,NA,high,NA
+58,490,462,mate/sterkte,wit,spierwit,vochtig,nat,droog,oerwoud,vaatdoek,appel,NA,high,NA
+59,795,732,tegengestelden,nat,droog,lawaai,stilte,herrie,gillen,spelen,klussen,NA,high,NA
+60,104,88,classificatie,trui,kleding,haai,vis,zoogdier,zee,water,tanden,NA,low,categorical
+61,85,69,classificatie,heks,sprookjesfiguur,ring,sieraad,goud,boek,lucht,voertuig,NA,low,categorical
+62,265,246,dezelfde categorie,schoen,klomp,zon,maan,laag,sinterklaas,koek,koud,NA,low,categorical
+63,329,310,gebrek aan,blind,zicht,honger,eten,arm,mond,misselijk,rusten,NA,low,causal
+64,935,841,uitvoerder - actie,tuinier,tuinieren,bediende,bedienen,ober,dineren,restaurant,eten,NA,low,causal
+65,964,868,uitvoerder - actie,timmerman,timmeren,fietsenmaker,repareren,ventiel,ketting,stuur,wiel,NA,low,causal
+66,192,176,deel - geheel,baksteen,gebouw,mouw,jas,broek,kat,sjaal,stof,NA,low,compositional
+67,452,424,item - eigenschap,lood,zwaar,schreeuwen,hard,schor,keelpijn,concert,waaghals,NA,low,compositional
+68,542,509,object - functie,pan,koken,auto,rijden,printen,opwarmen,autodeur,file,NA,low,compositional
+69,763,703,synoniem,modern,nieuwerwets,jeugdig,jong,oud,bejaard,speels,taart,NA,low,NA
+70,768,708,synoniem,lawaai,herrie,makkelijk,eenvoudig,ingewikkeld,school,slim,dom,NA,low,NA
+71,806,743,tegengestelden,toekomst,verleden,wit,zwart,bleek,blank,rood,dwerg,NA,low,NA
+72,350,328,hoort bij elkaar,hand,vinger,been,voet,beker,lopen,arm,gips,near,high,categorical
+73,433,405,item - eigenschap,bij,honing,koe,melk,wol,katoen,koffie,stier,far,high,compositional
+74,717,659,synoniem,zeldzaam,schaars,correct,goed,fout,ring,pen,vals,near,low,NA
+75,319,300,dezelfde categorie,ranja,appelsap,appel,banaan,bloemkool,aardappel,water,pizza,near,low,categorical
+76,430,402,item - eigenschap,suiker,zoet,sporten,gezond,stadion,hardloopschoenen,zweten,rennen,NA,high,compositional
+77,325,306,gebrek aan,haast,tijd,weeskind,ouders,meisje,jongen,wezenlijk,Annie,NA,high,causal
+78,403,377,hoort bij elkaar,verf,kwast,moeder,baby,kinderwagen,draagdoek,wieg,fles,NA,low,categorical
+79,793,730,tegengestelden,knijpen,aaien,stijgen,dalen,vliegtuig,warm,lucht,hijgen,NA,low,NA
+80,81,65,classificatie,muis,knaagdier,mus,vogel,mees,boom,nest,snavel,near,low,categorical
+81,249,232,delen een eigenschap,mus,vliegtuig,chocolade,koekjes,merel,puur,agenda,banketbakker,far,low,compositional
+82,355,333,hoort bij elkaar,hand,vinger,voet,teen,armband,lichaam,arm,been,near,high,categorical
+83,862,789,teken van,sirene,hulpdienst,luxe,rijk,Ferrari,snel rijden,mooi,benzine,far,high,NA
+84,712,654,mate/sterkte,warm,heet,raar,gek,normaal,voltooid,overig,dank,near,low,NA
+85,728,668,synoniem,grootmoeder,oma,over,voorbij,jammer,onder,oven,vergeten,far,high,NA
+86,856,786,teken van,kruidnoten,Sinterklaas,fronsen,nadenken,blijdschap,vergeten,luisteren,wandelen,far,low,NA
+87,180,164,deel - geheel,dag,week,kassa,supermarkt,betalen,maand,boodschappen,rotonde,NA,low,compositional
+88,365,342,hoort bij elkaar,stier,koe,haan,kip,varken,huis,school,geweer,near,low,categorical
+89,455,427,item - eigenschap,ijsbaan,glad,berg,hoog,klein,landschap,vakantie,wandelen,far,high,compositional
+90,103,87,classificatie,duif,vogel,haai,vis,zoogdier,zee,water,tanden,near,low,categorical
+91,217,200,delen een eigenschap,Parijs,Rome,pretpark,speeltuin,school,groenteboer,fietsenmaker,dokter,far,low,compositional
+92,709,651,probleem - oplossing,troep,opruimen,overgewicht,afvallen,kilo,weegschaal,dokter,dik,far,low,causal
+93,447,419,item - eigenschap,kraan,water,vuur,warmte,kampvuur,lucifers,marshmallows,olie,near,high,compositional
+94,785,722,tegengestelden,schoon,vies,nep,echt,namaak,kapot,verboden,alsof,near,high,NA
+95,326,307,gebrek aan,arm,geld,weeskind,ouders,meisje,jongen,wezenlijk,Annie,far,high,causal
+96,124,108,classificatie,eik,boom,pink,vinger,hand,nagel,bijten,teen,far,low,categorical
+97,271,252,dezelfde categorie,stofzuiger,strijkbout,toetsenbord,muis,lucht,gras,kip,bus,NA,low,categorical
+98,372,348,hoort bij elkaar,weekend,vrij,ochtend,opstaan,middag,zon,tijdstip,dag,far,high,categorical
+99,205,189,delen een eigenschap,sneeuw,papier,drop,mier,kast,juf,kapstok,huis,far,high,compositional
+100,148,132,deel - geheel,toets,piano,bladzijde,boek,papier,lezen,kaft,titel,far,high,compositional
