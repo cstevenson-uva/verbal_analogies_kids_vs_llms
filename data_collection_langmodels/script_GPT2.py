@@ -104,7 +104,7 @@ def calculate_accuracy(df):
     return len(correct_predictions) / len(df)
 
 if __name__ == "__main__":
-    csv_file_path = '../data/prowise_verbal_analogy_data.csv'
+    csv_file_path = '../items/prowise_verbal_analogy_items_selection.csv'
     df = pd.read_csv(csv_file_path)
 
     df = clean_data(df)

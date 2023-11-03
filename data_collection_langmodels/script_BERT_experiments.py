@@ -163,7 +163,7 @@ def main():
     parser = argparse.ArgumentParser()
     
     # FILE FOR MAIN DATA COLLECTION
-    parser.add_argument("--path_to_input_file", default='../items/prowise_verbal_analogy_items.csv', type=str, help="Path to data directory")
+    parser.add_argument("--path_to_input_file", default='../items/prowise_verbal_analogy_items_selection.csv', type=str, help="Path to data directory")
     # FILE FOR EXPERIMENT 4 DATA COLLECTION
     #parser.add_argument("--path_to_input_file", default='../items/dat_ACB_new_items.csv', type=str, help="Path to data directory")
     

@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 # Download csv-file
-df = pd.read_csv('../data/prowise_verbal_analogy_data.csv')
+df = pd.read_csv('../items/prowise_verbal_analogy_items_selection.csv')
 
 #Everything lowercase, remove - and '
 df = df.applymap(lambda s: s.lower() if type(s) == str else s)
