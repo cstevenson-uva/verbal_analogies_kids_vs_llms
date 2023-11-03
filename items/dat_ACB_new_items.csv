@@ -1,0 +1,35 @@
+row_id,item_number,type_verband,A,B,C,D,Ans1,Ans2,Ans3,Ans4,semantic_distance_near_far,distractor_salience_high_low
+1,64,classificatie,puppy,hond,kitten,kat,hondje,blaffen,dier,schattig,near,low
+2,65,classificatie,kalfje,koe,kitten,kat,kalf,melk,dier,wei,near,low
+3,105,classificatie,slang,reptiel,haai,vis,giftig,dier,krokodil,water,near,low
+4,125,classificatie,cola,frisdrank,lolly,snoep,suiker,limonade,lekker,zoet,near,low
+5,147,deel  geheel,toets,toetsenbord,bladzijde,boek,computer,typen,pc,piano,far,high
+6,151,deel  geheel,hier,overal,nu,altijd,nergens,ergens,alles,veel,near,high
+7,174,deel  geheel,bladzijde,boek,letter,woord,pagina,lezen,alfabet,schrijven,,high
+8,280,dezelfde categorie,kat,tijger,hond,wolf,leeuw,dier,poes,wild,near,low
+9,336,gebrek aan,donker,licht,benauwd,lucht,zon,zwaar,helder,buiten,near,high
+10,337,gebrek aan,naakt,kleren,benauwd,lucht,kleding,bloot,broek,warm,far,high
+11,338,gebrek aan,naakt,kleren,kaal,haren,kleding,bloot,broek,warm,near,low
+12,343,gebrek aan,blind,zicht,doof,gehoor,ogen,bril,kijken,zien,near,high
+13,362,hoort bij elkaar,voet,schoen,hoofd,muts,sok,veter,zool,lopen,near,low
+14,399,hoort bij elkaar,afwas,afwasborstel,gebit,tandenborstel,vaat,vuil,schoonmaken,water,near,high
+15,400,hoort bij elkaar,lengte,meter,tijd,minuut,centimeter,afstand,meten,breedte,,high
+16,402,hoort bij elkaar,inhoud,liter,tijd,minuut,hoeveel,water,meten,melk,far,high
+17,433,item  eigenschap,bij,honing,koe,melk,steek,bijen,lekker,thee,far,high
+18,437,item  eigenschap,aardbei,rood,melk,wit,bloed,liefde,kleur,fruit,near,high
+19,440,item  eigenschap,lood,zwaar,veer,licht,metaal,gewicht,dik,zweven,,high
+20,457,item  eigenschap,ravijn,diep,berg,hoog,vallen,put,zee,klimmen,near,high
+21,491,mate/sterkte,storm,orkaan,ruzie,gevecht,wind,tornado,schade,woest,,high
+22,532,mate/sterkte,praten,schreeuwen,lopen,rennen,roepen,hard,lawaai,angst,near,low
+23,547,object  functie,pan,koken,pen,schrijven,bakken,eten,lekker,recept,far,high
+24,579,object  functie,ogen,kijken,neus,ruiken,zien,bril,horen,luisteren,near,high
+25,583,object  functie,radio,luisteren,boek,lezen,muziek,horen,oren,geluid,,high
+26,584,object  functie,muziek,luisteren,boek,lezen,radio,horen,oren,geluid,near,high
+27,592,object  functie,microfoon,zingen,podium,optreden,geluid,koor,toneel,concert,near,low
+28,606,object  locatie,pan,keuken,auto,garage,koken,eten,tafel,huis,,high
+29,607,object  locatie,vliegtuig,vliegveld,auto,garage,lucht,vakantie,vliegen,reizen,,high
+30,610,object  locatie,water,zee,wolk,lucht,strand,zon,zand,regen,near,low
+31,650,object  locatie,hamster,dierenwinkel,kip,boerderij,kooi,huisdier,dieren,rat,,high
+32,722,synoniem,bezorgen,brengen,zenden,versturen,pakket,halen,leveren,post,near,low
+33,796,tegengestelden,overal,nergens,altijd,nooit,ergens,overal,verloren,niets,near,low
+34,891,teken van,hitte,zomer,kou,winter,warm,zon,vakantie,zee,near,low
