@@ -1,0 +1,100 @@
+Dublin Core Metadata
+---------------------------------------------
+
+Title:
+Verbal Analogies Children versus LLMs
+
+Creator:
+Stevenson, Claire
+
+Subject:
+Codebook variables
+
+Description:
+This codebook provides detailed information on the variables and the units of measurements created and used.
+
+Publisher:
+University of Amsterdam
+
+Contributor:
+Mathilde ter Veen, Rochelle Choenni, Han L. J. van der Maas⋄ and Ekaterina Shutova
+
+Date:
+2023-11-01
+
+Type:
+Codebook
+
+Format:
+text/plain
+
+Identifier:
+-
+
+Source:
+Prowise Learn Verbal Analogies Game
+
+Language:
+English
+
+Relation:
+Full dataset of items and children's performance available from Prowise Learn BV
+
+Coverage:
+The Netherlands, 2023
+
+Rights:
+-
+
+
+Description variables
+--------------------
+1. row_id
+- Description: Unique row number given to verbal analogy problem.
+- Unit of Measurement: Numeric identifier	
+
+2. item_number
+- Description: Unique number given to verbal analogy problem.
+- Unit of Measurement: Numeric identifier	
+
+3. A
+- Description: The first term in the experiment 4 verbal analogy of the form "A is to C as B is to D". Represents the base of first word-pair of the analogy. 	
+- Unit of Measurement: None 
+
+4. B
+- Description: The third term in the experiment 4 verbal analogy "A is to C as B is to D".
+- Unit of Measurement: None
+
+5. C
+- Description: The second term in the experiment 4 verbal analogy "A is to C as B is to D".
+- Unit of Measurement: None 	
+
+6. D
+- Description: The fourth term in the experiment 4 verbal analogy "A is to C as B is to D".
+- Unit of Measurement: None  	
+
+7. Ans1
+- Description: The first alternative answer option for the D-term in a verbal analogy problem, which is an incorrect match for the given A, B, and C terms.	
+- Unit of Measurement: None	
+
+8. Ans2
+- Description: The second alternative answer option for the D-term in a verbal analogy problem, which is an incorrect match for the given A, B, and C terms.	
+- Unit of Measurement: None  	
+
+9. Ans3
+- Description: The third alternative answer option for the D-term in a verbal analogy problem, which is an incorrect match for the given A, B, and C terms.
+- Unit of Measurement: None  	
+
+10. Ans4
+- Description: The fourth alternative answer option for the D-term in a verbal analogy problem, which is an incorrect match for the given A, B, and C terms.	
+- Unit of Measurement: None 
+
+11. semantic_distance_near_far
+- Description: Conceptual Distance Between Base and Target Domains. The greater the distance between an analogy base and target domain the more difficult the analogy is for adults and children to solve. It is measured by determining the cosine distance between the A:B and the C:D pair. The distances are categorized as near (distance ranging from 0-.35), middle (.36-.64) or far distance (.65-1.0). Note this is based on the original analogy.
+- Unit of Measurement: Categorical (Nominal)
+- Categories: near, middle, far	
+
+12. distractor_salience_high_low
+- Description: The relation between C:D relative to each of the C:D’, where D’ represents each distractor option. Distractor salience is high, when the semantic similarity between C and one of the incorrect answers D’ is greater than the semantic similarity between C and the correct answer D. Note this is based on the original analogy.
+- Unit of Measurement: Categorical (Nominal)
+- Categories: high, low
